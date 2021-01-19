@@ -12,7 +12,7 @@ Klein, R. and Vella, F. (2009), A Semiparametric Model for Binary Response and C
 
 ***
 ### Example Code
-```
+``` r
 library(MASS) # for multivariate normals
 library(glmx) # for hetero probits
 require(AER) # for ivreg function
